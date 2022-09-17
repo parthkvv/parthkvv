@@ -22,11 +22,23 @@ My long-term research goal is to develop autonomous systems capable of robust re
 
 ## Portfolio
 
+Explore!
+
 ![Parth_vasoya_github_portfolio](https://user-images.githubusercontent.com/56112545/190860582-cf7abf0f-d0ce-49fc-a0df-87862094951e.gif)
 
 <h3 align="center"> 
 https://parthkvv.github.io/Parth_Vasoya/ 
 </h3>
+
+## Projects 🚀🚗👩‍💻✨
+
+Here are some of my projects
+
+[waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+
+[Latest Post 👉](https://waylonwalker.com/latest)
 
 ## Skill Set
 
