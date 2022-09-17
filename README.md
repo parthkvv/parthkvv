@@ -30,7 +30,7 @@ Explore!
 https://parthkvv.github.io/Parth_Vasoya/ 
 </h3>
 
-## Projects 🚀🚗👩‍💻✨
+## Projects 🚀🚗👩‍💻🧑🏃‍♂️
 
 Here are some of my projects
 
