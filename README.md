@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Edit README intro.gif](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/readme-introgif-9fjo5?fontsize=14&hidenavigation=1&theme=dark)
-
+![Parth_vasoya_github](https://user-images.githubusercontent.com/56112545/190859047-7a9a36b3-bccf-452a-8fae-da894af74c71.gif)
 
 <h1 align="center">Hi, I'm Parth 👋</h1>
 <!-- <h3 align="center">I'm an ambitious and self-motivated graduate with a strong inclination towards Computer Vision/Perception in Autonomous Driving</h3> -->
