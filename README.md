@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://codesandbox.io/s/readme-introgif-9fjo5?file=/src/main.js
+[https://codesandbox.io/s/readme-introgif-9fjo5?file=/src/main.js](https://codesandbox.io/embed/readme-introgif-9fjo5?fontsize=14&hidenavigation=1&theme=dark)
 
 <h1 align="center">Hi, I'm Parth 👋</h1>
 <!-- <h3 align="center">I'm an ambitious and self-motivated graduate with a strong inclination towards Computer Vision/Perception in Autonomous Driving</h3> -->
