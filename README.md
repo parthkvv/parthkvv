@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skill Set :muscle:
+## Skill Set
 
 These are some of the major technologies that I use or have worked on in the past:
 
