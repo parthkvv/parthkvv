@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-h1 align="center">Hi, I'm Parth 👋</h1>
+<h1 align="center">Hi, I'm Parth 👋</h1>
 <!-- <h3 align="center">I'm an ambitious and self-motivated graduate with a strong inclination towards Computer Vision/Perception in Autonomous Driving</h3> -->
 I am currently pursuing research at the Indian Institute of Science (IISc), where I’m a part of the Intelligent Inclusive Interaction Design Lab advised by Dr. Pradipta Biswas. Previously, I interned at Reliance Industries Limited as a Web Developer. Prior to that, I interned as a Machine Learning Engineer at Devtown. I recently completed my undergraduation (Bachelor of Engineering), in Information Technology from the G H Patel College of Engineering and Technology , Anand.
 
