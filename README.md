@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://codesandbox.io/s/readme-introgif-9fjo5?file=/src/main.js
+
 <h1 align="center">Hi, I'm Parth 👋</h1>
 <!-- <h3 align="center">I'm an ambitious and self-motivated graduate with a strong inclination towards Computer Vision/Perception in Autonomous Driving</h3> -->
 I am pursuing research at the Indian Institute of Science (IISc), where I'm a part of the Intelligent Inclusive Interaction Design Lab, advised by Dr. Pradipta Biswas. Previously, I interned at Reliance Industries Limited as a Web Developer. Before that, I interned as a Machine Learning Engineer at Devtown. I recently completed my undergraduate (Bachelor of Engineering) in Information Technology from the G H Patel College of Engineering and Technology, Anand.
