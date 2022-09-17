@@ -23,7 +23,7 @@ My long-term research goal is to develop autonomous systems capable of robust re
 ![Parth_vasoya_github_portfolio](https://user-images.githubusercontent.com/56112545/190860582-cf7abf0f-d0ce-49fc-a0df-87862094951e.gif)
 
 <h3 align="center"> 
-[Portfolio](https://parthkvv.github.io/Parth_Vasoya/) 
+https://parthkvv.github.io/Parth_Vasoya/ 
 </h3>
 
 ## Skill Set
