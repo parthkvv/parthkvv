@@ -49,7 +49,7 @@ Proposed and designed a novel recurrent neural network for lane detection based 
 Trained a YOLOv3 object detector to identify people and traffic signs on OpenImageV6 1.6M images, achieving a loss of 4.8%. Optimized a YOLOv3-Deep SORT object tracker through Dlib integration and minimized loss to 4.73%.
 
 [Latest Post 👉](https://waylonwalker.com/latest)
-
+<br>
 <br>
 <br>
 <p>
