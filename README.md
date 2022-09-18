@@ -32,8 +32,6 @@ https://parthkvv.github.io/Parth_Vasoya/
 
 ## Projects 🚀🚗👩‍💻
 
-
-
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
