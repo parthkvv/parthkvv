@@ -52,7 +52,7 @@ Trained a YOLOv3 object detector to identify people and traffic signs on OpenIma
 
 <br>
 <p>
-  <a href="https://github.com/parthkvv/Carpool_Management_System"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://github.com/parthkvv/Carpool_Management_System"><img width="300" align='right' src="https://user-images.githubusercontent.com/56112545/190911186-dd391665-8664-43dc-8fcb-4c267bdd2875.gif"></a>
 </p>
 <h4> Carpool Management System</h4>
 
@@ -60,7 +60,7 @@ Spearhead development of Carpool Management System utilizing Node.js for the cor
 
 [Visit 👉](https://github.com/parthkvv/Carpool_Management_System)
 <p>
-  <a href="https://github.com/parthkvv/Real-time_Drowsiness_Detection"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://github.com/parthkvv/Real-time_Drowsiness_Detection"><img width="300" align='right' src="https://user-images.githubusercontent.com/56112545/190911219-71b84517-c3c0-4f84-bb18-05a2fcd25dd3.png"></a>
 </p>
 <h4> Real-time Driver Drowsiness Monitoring</h4>
 
@@ -70,7 +70,7 @@ Developed a CNN-based drowsiness detector with Dlib facial feature extractor wit
 [Visit 👉](https://github.com/parthkvv/Real-time_Drowsiness_Detection)
 
 <p>
-  <a href="https://github.com/parthkvv/Face-Mask-Detection"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://github.com/parthkvv/Face-Mask-Detection"><img width="300" align='right' src="https://user-images.githubusercontent.com/56112545/190911253-e971867d-5a9f-408b-a769-48fb94c0c4aa.png"></a>
 </p>
 <h4> Robust Face-mask Detection</h4>
 
