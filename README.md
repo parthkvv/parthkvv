@@ -41,6 +41,7 @@ Proposed and designed a novel recurrent neural network for lane detection based 
 [Latest Post 👉](https://waylonwalker.com/latest)
 
 <br>
+<br>
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
@@ -49,6 +50,7 @@ Trained a YOLOv3 object detector to identify people and traffic signs on OpenIma
 
 [Latest Post 👉](https://waylonwalker.com/latest)
 
+<br>
 <br>
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
@@ -59,6 +61,7 @@ Spearhead development of Carpool Management System utilizing Node.js for the cor
 [Latest Post 👉](https://waylonwalker.com/latest)
 
 <br>
+<br>
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
@@ -68,6 +71,7 @@ Developed a CNN-based drowsiness detector with Dlib facial feature extractor wit
 
 [Latest Post 👉](https://waylonwalker.com/latest)
 
+<br>
 <br>
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
