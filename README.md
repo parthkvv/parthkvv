@@ -57,7 +57,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Pytorch" alt="Pytorch" width="40px" src="https://user-images.githubusercontent.com/56112545/190888796-fc8ad870-75c7-4009-a289-73a7d13504d6.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
 |--|--|--|--|--|
 <img title="ReactJS" alt="ReactJS" width="40px" src="https://user-images.githubusercontent.com/56112545/190889586-8f00da4e-18ef-4c76-820a-4075a8faad10.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://user-images.githubusercontent.com/56112545/190889611-51d6db6f-c4c5-4ed2-8050-b71a204dc14e.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="ROS" alt="ROS" width="40px" src="https://user-images.githubusercontent.com/56112545/190889606-533c1957-c125-4f5d-90ea-cd2bf96123c8.png">
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 
 **Cloud**
 
