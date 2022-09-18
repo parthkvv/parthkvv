@@ -48,8 +48,11 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="HTML" alt="HTML" width="40px" src="https://user-images.githubusercontent.com/56112545/190888788-94bc61e2-fe09-42b2-a2c9-c64ccb863167.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="C++" alt="C++" width="40px" src="https://user-images.githubusercontent.com/56112545/190889399-10ad8b8c-73a7-480c-943e-6749fca1c3ae.png">
 |--|--|--|--|
+<img title="HTML" alt="HTML" width="40px" src="https://user-images.githubusercontent.com/56112545/190888788-94bc61e2-fe09-42b2-a2c9-c64ccb863167.png" />|<img alt="Java" title="Java" width="40px" src="https://user-images.githubusercontent.com/56112545/190889347-932b1d73-9117-4533-9a8d-f5bc83fe760f.png">|<img title="PHP" alt="PHP" width="40px" src="https://user-images.githubusercontent.com/56112545/190889405-d2a83d7e-eded-4e98-9bbb-82d627b7f539.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/56112545/190889369-3979687f-2c17-4754-9987-c3940f99b621.png">
+|--|--|--|--|
+
 
 **Libraries and Frameworks**
 
