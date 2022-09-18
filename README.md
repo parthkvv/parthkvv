@@ -48,8 +48,8 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="C" alt="C" width="40px" src="https://user-images.githubusercontent.com/56112545/190888788-94bc61e2-fe09-42b2-a2c9-c64ccb863167.png">
-|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="HTML" alt="HTML" width="40px" src="https://user-images.githubusercontent.com/56112545/190888788-94bc61e2-fe09-42b2-a2c9-c64ccb863167.png">
+|--|--|--|--|
 
 **Libraries and Frameworks**
 
