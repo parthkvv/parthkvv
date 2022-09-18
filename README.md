@@ -33,7 +33,7 @@ https://parthkvv.github.io/Parth_Vasoya/
 ## Projects 🚀🚗👩‍💻
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://user-images.githubusercontent.com/56112545/190902559-41625c6a-3bc0-4a3b-9548-0fd22cdbd030.gif"></a>
 </p>
 <h4> Lane Detection in Challenging Environments</h4>
 
