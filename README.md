@@ -51,9 +51,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="C" alt="C" width="40px" src="https://user-images.githubusercontent.com/56112545/190888788-94bc61e2-fe09-42b2-a2c9-c64ccb863167.png">
 |--|--|--|
 
-
-
-
 **Libraries and Frameworks**
 
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Pytorch" alt="Pytorch" width="40px" src="https://user-images.githubusercontent.com/56112545/190888796-fc8ad870-75c7-4009-a289-73a7d13504d6.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
