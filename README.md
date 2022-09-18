@@ -50,6 +50,7 @@ Trained a YOLOv3 object detector to identify people and traffic signs on OpenIma
 
 [Visit 👉](https://github.com/parthkvv/YOLOv3_Traffic_Sign_Detection)
 
+<br>
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
