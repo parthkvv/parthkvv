@@ -33,7 +33,7 @@ https://parthkvv.github.io/Parth_Vasoya/
 ## Projects 🚀🚗👩‍💻
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://user-images.githubusercontent.com/56112545/190902559-41625c6a-3bc0-4a3b-9548-0fd22cdbd030.gif"></a>
+  <a href="https://github.com/parthkvv/Lane-Detection-in-Unstructured-Environments"><img width="300" align='right' src="https://user-images.githubusercontent.com/56112545/190902559-41625c6a-3bc0-4a3b-9548-0fd22cdbd030.gif"></a>
 </p>
 <h4> Lane Detection in Challenging Environments</h4>
 
@@ -42,7 +42,7 @@ Proposed and designed a novel recurrent neural network for lane detection based 
 [Visit 👉](https://github.com/parthkvv/Lane-Detection-in-Unstructured-Environments)
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://github.com/parthkvv/YOLOv3_Traffic_Sign_Detection"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
 <h4> Traffic Sign Detection</h4>
 
@@ -52,7 +52,7 @@ Trained a YOLOv3 object detector to identify people and traffic signs on OpenIma
 
 <br>
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://github.com/parthkvv/Carpool_Management_System"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
 <h4> Carpool Management System</h4>
 
@@ -60,7 +60,7 @@ Spearhead development of Carpool Management System utilizing Node.js for the cor
 
 [Visit 👉](https://github.com/parthkvv/Carpool_Management_System)
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://github.com/parthkvv/Real-time_Drowsiness_Detection"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
 <h4> Real-time Driver Drowsiness Monitoring</h4>
 
@@ -70,7 +70,7 @@ Developed a CNN-based drowsiness detector with Dlib facial feature extractor wit
 [Visit 👉](https://github.com/parthkvv/Real-time_Drowsiness_Detection)
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://github.com/parthkvv/Face-Mask-Detection"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
 <h4> Robust Face-mask Detection</h4>
 
