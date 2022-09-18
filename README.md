@@ -35,7 +35,7 @@ https://parthkvv.github.io/Parth_Vasoya/
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
-# Lane Detection in Challenging Environments
+<h5> Lane Detection in Challenging Environments</h5>
 
 Proposed and designed a novel recurrent neural network for lane detection based on LSTM. Achieved 2% improvement in accuracy and 150% reduction in inference cost on Indian Driving Dataset (IDD) over CRF-based methods. Integrate ROS object tracking, lane-line detection, and semantic segmentation architectures with AV software stack.
 
@@ -46,7 +46,7 @@ Proposed and designed a novel recurrent neural network for lane detection based 
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
-# Traffic Sign Detection
+<h5> Traffic Sign Detection</h5>
 
 Trained a YOLOv3 object detector to identify people and traffic signs on OpenImageV6 1.6M images, achieving a loss of 4.8%. Optimized a YOLOv3-Deep SORT object tracker through Dlib integration and minimized loss to 4.73%.
 
@@ -57,7 +57,7 @@ Trained a YOLOv3 object detector to identify people and traffic signs on OpenIma
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
-# Carpool Management System
+<h5> Carpool Management System</h5>
 
 Spearhead development of Carpool Management System utilizing Node.js for the core trip execution engine, serving 24k users across a 300 sq. km area. Reduced ETA by 30% using Dijkstra’s algorithm with heuristics, saving $560k in annual fuel costs. Implemented a data visualization tool using react-map-gl to monitor 1480 vehicles.
 
@@ -68,7 +68,7 @@ Spearhead development of Carpool Management System utilizing Node.js for the cor
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
-# Real-time Driver Drowsiness Monitoring
+<h5> Real-time Driver Drowsiness Monitoring</h5>
 
 Developed a CNN-based drowsiness detector with Dlib facial feature extractor with 91.6% accuracy. Crafted a sub-network based on lightweight architectures for yawn detection and blink detection with EAR threshold 0.15. Ideated a CNN based on attention mechanism to achieve 0.5 deg best-case accuracy across the same FOV on NVGaze
 2M images for eye gaze estimation.
@@ -80,7 +80,7 @@ Developed a CNN-based drowsiness detector with Dlib facial feature extractor wit
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
-# Robust Face-mask Detection
+<h5> Robust Face-mask Detection</h5>
 
 Developed a CNN architecture that employs multi-task learning to detect the presence of a face mask and its coverage of the nose, mouth, and chin on human faces. Conducted training on MaskedFace-Net 138k synthetic images.
 
