@@ -70,10 +70,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 **Tools**
 
-
-<img width="256" alt="intellij_pycharm_macos_bigsur_icon_190055" src="https://user-images.githubusercontent.com/56112545/190890510-18b54e03-cc8d-40c6-bd34-3a6c05cc388d.png">
-
-
 <img title="MATLAB" alt="MATLAB" width="40px" src="https://user-images.githubusercontent.com/56112545/190888794-8fa77d82-8dca-4c8c-be89-059bf43564aa.png">|<img title="PyCharm" alt="PyCharm" width="40px" src="https://user-images.githubusercontent.com/56112545/190890510-18b54e03-cc8d-40c6-bd34-3a6c05cc388d.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|
 <br>
