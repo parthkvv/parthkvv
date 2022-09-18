@@ -59,7 +59,6 @@ Trained a YOLOv3 object detector to identify people and traffic signs on OpenIma
 Spearhead development of Carpool Management System utilizing Node.js for the core trip execution engine, serving 24k users across a 300 sq. km area. Reduced ETA by 30% using Dijkstra’s algorithm with heuristics, saving $560k in annual fuel costs. Implemented a data visualization tool using react-map-gl to monitor 1480 vehicles.
 
 [Visit 👉](https://github.com/parthkvv/Carpool_Management_System)
-
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
