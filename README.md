@@ -35,7 +35,7 @@ https://parthkvv.github.io/Parth_Vasoya/
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
-<h5> Lane Detection in Challenging Environments</h5>
+<h4> Lane Detection in Challenging Environments</h4>
 
 Proposed and designed a novel recurrent neural network for lane detection based on LSTM. Achieved 2% improvement in accuracy and 150% reduction in inference cost on Indian Driving Dataset (IDD) over CRF-based methods. Integrate ROS object tracking, lane-line detection, and semantic segmentation architectures with AV software stack.
 
@@ -80,7 +80,7 @@ Developed a CNN-based drowsiness detector with Dlib facial feature extractor wit
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
-<h5> Robust Face-mask Detection</h5>
+<h4> Robust Face-mask Detection</h4>
 
 Developed a CNN architecture that employs multi-task learning to detect the presence of a face mask and its coverage of the nose, mouth, and chin on human faces. Conducted training on MaskedFace-Net 138k synthetic images.
 
