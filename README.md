@@ -28,11 +28,17 @@ My long-term research goal is to develop autonomous systems capable of robust re
 https://parthkvv.github.io/Parth_Vasoya/ 
 </h3>
 
+ ---
+
 ## Projects 🚀🚗👩‍💻
 
-Here are some of my projects
 
-[waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+</p>
+
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
