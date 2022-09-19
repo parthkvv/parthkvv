@@ -61,7 +61,7 @@ A Carpool Management System serving 24k users across a 300 sq. km area at Relian
 [Visit 👉](https://github.com/parthkvv/Carpool_Management_System)
 
 <p>
-  <a href="https://github.com/parthkvv/Real-time_Drowsiness_Detection"><img width="300" height="160" align='right' src="https://user-images.githubusercontent.com/56112545/190911219-71b84517-c3c0-4f84-bb18-05a2fcd25dd3.png"></a>
+  <a href="https://github.com/parthkvv/Real-time_Drowsiness_Detection"><img width="300" height="160" align='right' src="https://user-images.githubusercontent.com/56112545/191018332-2d61e7a2-507e-4987-83d0-61034228b67f.gif"></a>
 </p>
 <h4> Real-time Driver Drowsiness Monitoring</h4>
 
