@@ -20,7 +20,6 @@ I am pursuing research at the Indian Institute of Science (IISc), where I'm a pa
 
 My long-term research goal is to develop autonomous systems capable of robust real-time decision-making. To achieve this, I've been working on deep learning for perception. Currently, I'm working on networks that can handle multiple perception tasks.
 
----
 
 ## Portfolio 👩‍💻
 
@@ -91,7 +90,6 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
   <a href="https://github.com/parthkvv?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
----
 
 ## Skill Set 🛠
 
