@@ -140,5 +140,5 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="parthkvv's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=parthkvv&theme=react-dark" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="parthkvv's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=parthkvv&theme=github-dark" /></a>
 
