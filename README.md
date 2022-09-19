@@ -109,3 +109,36 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
 <img title="MATLAB" alt="MATLAB" width="40px" src="https://user-images.githubusercontent.com/56112545/190888794-8fa77d82-8dca-4c8c-be89-059bf43564aa.png">|<img title="PyCharm" alt="PyCharm" width="40px" src="https://user-images.githubusercontent.com/56112545/190890510-18b54e03-cc8d-40c6-bd34-3a6c05cc388d.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|
 <br>
+
+
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="parthkvv's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=parthkvv&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="parthkvv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkvv&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#574](https://github.com/DenverCoder1/custom-icon-badges/pull/574) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#573](https://github.com/DenverCoder1/custom-icon-badges/pull/573) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#571](https://github.com/DenverCoder1/custom-icon-badges/pull/571) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#570](https://github.com/DenverCoder1/custom-icon-badges/pull/570) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#572](https://github.com/DenverCoder1/custom-icon-badges/pull/572) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+    <!--END_SECTION:activity-->
+    </details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="parthkvv's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
