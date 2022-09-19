@@ -116,7 +116,7 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <h4>💻 GitHub Profile Stats</h4>
-  <br/>
+ 
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="parthkvv's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=parthkvv&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="parthkvv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkvv&langs_count=8&layout=compact&theme=prussian&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
