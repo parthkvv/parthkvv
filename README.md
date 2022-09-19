@@ -37,7 +37,7 @@ https://parthkvv.github.io/Parth_Vasoya/
 </p>
 <h4> Lane Detection in Challenging Environments</h4>
 
-Proposed and designed a novel recurrent neural network for lane detection based on LSTM. Achieved 2% improvement in accuracy and 150% reduction in inference cost on Indian Driving Dataset (IDD) over CRF-based methods. Integrate ROS object tracking, lane-line detection, and semantic segmentation architectures with AV software stack.
+Developed a novel recurrent neural network for lane detection based on LSTM with higher accuracy and lower inference cost on Indian Driving Dataset (IDD) over CRF-based methods. 
 
 [Visit 👉](https://github.com/parthkvv/Lane-Detection-in-Unstructured-Environments)
 
@@ -46,7 +46,7 @@ Proposed and designed a novel recurrent neural network for lane detection based 
 </p>
 <h4> Traffic Sign Detection</h4>
 
-Trained a YOLOv3 object detector to identify people and traffic signs on OpenImageV6 1.6M images, achieving a loss of 4.8%. Optimized a YOLOv3-Deep SORT object tracker through Dlib integration and minimized loss to 4.73%.
+YOLOv3 object detector that identifies people and traffic signs. Trained using OpenImageV6 and Bosch Small Traffic Light Dataset. Optimized a YOLOv3-Deep SORT object tracker through Dlib integration.
 
 [Visit 👉](https://github.com/parthkvv/YOLOv3_Traffic_Sign_Detection)
 
@@ -56,7 +56,7 @@ Trained a YOLOv3 object detector to identify people and traffic signs on OpenIma
 </p>
 <h4> Carpool Management System</h4>
 
-Spearhead development of Carpool Management System utilizing Node.js for the core trip execution engine, serving 24k users across a 300 sq. km area. Reduced ETA by 30% using Dijkstra’s algorithm with heuristics, saving $560k in annual fuel costs. Implemented a data visualization tool using react-map-gl to monitor 1480 vehicles.
+A Carpool Management System serving 24k users across a 300 sq. km area at Reliance Industries Limited refinery complex. Implemented a data visualization tool using react-map-gl to monitor 1480 vehicles.
 
 [Visit 👉](https://github.com/parthkvv/Carpool_Management_System)
 <p>
@@ -64,8 +64,7 @@ Spearhead development of Carpool Management System utilizing Node.js for the cor
 </p>
 <h4> Real-time Driver Drowsiness Monitoring</h4>
 
-Developed a CNN-based drowsiness detector with Dlib facial feature extractor with 91.6% accuracy. Crafted a sub-network based on lightweight architectures for yawn detection and blink detection with EAR threshold 0.15. Ideated a CNN based on attention mechanism to achieve 0.5 deg best-case accuracy across the same FOV on NVGaze
-2M images for eye gaze estimation.
+A driver drowsiness detector that can identify blinks and yawn through Dlib and a separate subnetwork. Developed a CNN based on the attention mechanism for eye gaze estimation on the NVGaze dataset.
 
 [Visit 👉](https://github.com/parthkvv/Real-time_Drowsiness_Detection)
 
@@ -74,7 +73,7 @@ Developed a CNN-based drowsiness detector with Dlib facial feature extractor wit
 </p>
 <h4> Robust Face-mask Detection</h4>
 
-Developed a CNN architecture that employs multi-task learning to detect the presence of a face mask and its coverage of the nose, mouth, and chin on human faces. Conducted training on MaskedFace-Net 138k synthetic images.
+A CNN architecture that employs multi-task learning to detect the presence of a face mask and its coverage of the nose, mouth, and chin on human faces. Conducted training on MaskedFace-Net 138k synthetic images.
 
 [Visit 👉](https://github.com/parthkvv/Face-Mask-Detection)
 
