@@ -121,9 +121,9 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="parthkvv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkvv&langs_count=8&layout=compact&theme=prussian&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
+<br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="parthkvv's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=parthkvv&theme=noctis-minimus" /></a>
 
