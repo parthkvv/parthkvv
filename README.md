@@ -40,6 +40,7 @@ https://parthkvv.github.io/Parth_Vasoya/
 Developed a novel recurrent neural network for lane detection based on LSTM with higher accuracy and lower inference cost on Indian Driving Dataset (IDD) over CRF-based methods. 
 
 [Visit 👉](https://github.com/parthkvv/Lane-Detection-in-Unstructured-Environments)
+<br>
 
 <p>
   <a href="https://github.com/parthkvv/YOLOv3_Traffic_Sign_Detection"><img width="300" height="160" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
