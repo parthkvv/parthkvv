@@ -123,21 +123,6 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#574](https://github.com/DenverCoder1/custom-icon-badges/pull/574) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#573](https://github.com/DenverCoder1/custom-icon-badges/pull/573) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#571](https://github.com/DenverCoder1/custom-icon-badges/pull/571) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#570](https://github.com/DenverCoder1/custom-icon-badges/pull/570) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#572](https://github.com/DenverCoder1/custom-icon-badges/pull/572) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-    <!--END_SECTION:activity-->
-    </details>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="parthkvv's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=parthkvv&theme=noctis-minimus" /></a>
