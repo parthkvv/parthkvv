@@ -84,6 +84,10 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
 [Visit 👉](https://github.com/parthkvv/Face-Mask-Detection)
 
 <br>
+<br>
+<h4 align="center">
+  <a href="https://github.com/parthkvv?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 ## Skill Set 🛠
 
