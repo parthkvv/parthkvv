@@ -43,7 +43,7 @@ Developed a novel recurrent neural network for lane detection based on LSTM with
 <br>
 <br>
 <p>
-  <a href="https://github.com/parthkvv/YOLOv3_Traffic_Sign_Detection"><img width="300" height="160" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://github.com/parthkvv/YOLOv3_Traffic_Sign_Detection"><img width="300" height="160" align='right' src="https://user-images.githubusercontent.com/56112545/191027915-f5b8babe-2c24-425d-843e-5409443d5a75.png"></a>
 </p>
 <h4> Traffic Sign Detection</h4>
 
