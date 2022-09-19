@@ -20,7 +20,7 @@ I am pursuing research at the Indian Institute of Science (IISc), where I'm a pa
 
 My long-term research goal is to develop autonomous systems capable of robust real-time decision-making. To achieve this, I've been working on deep learning for perception. Currently, I'm working on networks that can handle multiple perception tasks.
 
-## Portfolio
+## Portfolio 👩‍💻
 
 ![Parth_vasoya_github_portfolio](https://user-images.githubusercontent.com/56112545/190860582-cf7abf0f-d0ce-49fc-a0df-87862094951e.gif)
 
@@ -80,7 +80,7 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
 
 <br>
 
-## Skill Set
+## Skill Set 🛠
 
 **Programming Languages**
 
@@ -111,7 +111,7 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
 <br>
 
 
-## Github Stats
+## Github Stats 📊
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
