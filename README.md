@@ -64,7 +64,7 @@ A Carpool Management System serving 24k users across a 300 sq. km area at Relian
 </p>
 <h4> Real-time Driver Drowsiness Monitoring</h4>
 
-A driver drowsiness detector that can identify blinks and yawn through Dlib and a separate subnetwork. Developed a CNN based on the attention mechanism for eye gaze estimation on the NVGaze dataset.
+A driver drowsiness detector that can identify blinks and yawns using Dlib and a separate subnetwork. Developed a CNN based on the attention mechanism for eye gaze estimation on the NVGaze dataset.
 
 [Visit 👉](https://github.com/parthkvv/Real-time_Drowsiness_Detection)
 
