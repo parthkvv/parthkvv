@@ -62,7 +62,8 @@ YOLOv3 object detector that identifies people and traffic signs. Trained using O
 A Carpool Management System serving 24k users across a 300 sq. km area at Reliance Industries Limited refinery complex. Implemented a data visualization tool using react-map-gl to monitor 1480 vehicles.
 
 [Visit 👉](https://github.com/parthkvv/Carpool_Management_System)
-
+<br>
+<br>
 <p>
   <a href="https://github.com/parthkvv/Real-time_Drowsiness_Detection"><img width="300" height="160" align='right' src="https://user-images.githubusercontent.com/56112545/191018332-2d61e7a2-507e-4987-83d0-61034228b67f.gif"></a>
 </p>
