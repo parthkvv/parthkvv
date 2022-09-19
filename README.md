@@ -42,10 +42,10 @@ Developed a novel recurrent neural network for lane detection based on LSTM with
 [Visit 👉](https://github.com/parthkvv/Lane-Detection-in-Unstructured-Environments)
 
 <p>
-  <a href="https://github.com/parthkvv/YOLOv3_Traffic_Sign_Detection"><img width="300" height="160" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://github.com/parthkvv/YOLOv3_Traffic_Sign_Detection"><img width="300" height="140" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
 <h4> Traffic Sign Detection</h4>
-<br>
+
 YOLOv3 object detector that identifies people and traffic signs. Trained using OpenImageV6 and Bosch Small Traffic Light Dataset. Optimized a YOLOv3-Deep SORT object tracker through Dlib integration.
 
 [Visit 👉](https://github.com/parthkvv/YOLOv3_Traffic_Sign_Detection)
