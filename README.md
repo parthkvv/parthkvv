@@ -111,7 +111,7 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
 <br>
 
 
-## 📊 Github stats
+## Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
