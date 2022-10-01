@@ -91,8 +91,6 @@ A CNN architecture that employs multi-task learning to detect the presence of a 
 </h4>
 
 
- ---
-
 ## Skill Set 🛠
 
 **Programming Languages**
